@@ -5,10 +5,7 @@
   "repository": "git@github.com:dunz/lezhin-cup.git",
   "author": "dunz <zergcake@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "server": "live-server"
-  },
-  "devDependencies": {
-    "live-server": "^1.2.0"
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
