@@ -4,8 +4,5 @@
   "main": "index.js",
   "repository": "git@github.com:dunz/lezhin-cup.git",
   "author": "dunz <zergcake@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.11"
-  }
+  "license": "MIT"
 }
